@@ -16,6 +16,6 @@ document.querySelector('body')
     // section
     document.querySelector('section')
         // article
-        document.querySelector('section article')
+        console.log(document.querySelectorAll('section article'))
             // p
             document.querySelector('section article p')
