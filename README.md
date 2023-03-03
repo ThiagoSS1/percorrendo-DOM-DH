@@ -1,1 +1,1 @@
-- Projeto desenvolvimento nas aulas da Dgitial House para percorrer o dom e manipulação de elementos. 
+- Projeto desenvolvido nas aulas da Digital House de Front-End II para percorrer o dom e manipulação de elementos. 
